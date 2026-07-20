@@ -2,3 +2,10 @@
 .thumbnail
 სასტუმროს landing page-2/
 სასტუმროს landing page-2.zip
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
